@@ -1,0 +1,9 @@
+Index,CharName,ImageName,DialogText,Animation,BGM,BGImage,EffectImage,SoundEffect,Transition
+1,백웅,BW_Normal,안녕` 난 백웅이야.,,Jazz1,goBackHomeBG,,,
+2,한서리,HSR_Normal,안녕하세요` 셰프님!,,stop,RoguelikeBG1,thunder,hit,
+3,playerName,,안녕` 얘들아~,,Jazz1,RoguelikeBG2,,,fade
+4,백웅,BW_Normal,바이,,stop,RoguelikeBG3,,,
+5,몬스터1,,크아앙,,Jazz1,RoguelikeBG2,,,fade
+6,바보,,,,,,TopOut,hit,
+7,이름입력,,,,stop,,,,fade
+8,,,,,Jazz1,goBackHomeBG,,,
